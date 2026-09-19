@@ -24,7 +24,7 @@
 
 ## 链接
 
-- 个人网站：[du-xiaowen.alexdjxyz.chatgpt.site](https://du-xiaowen.alexdjxyz.chatgpt.site)
+- 个人网站：[Cloudflare Pages](https://alex129xx-github-io.pages.dev) · [GitHub Pages 镜像](https://alex129xx.github.io)
 - LinkedIn：建立后补充
 - Email：alexdjxyz@gmail.com
 
